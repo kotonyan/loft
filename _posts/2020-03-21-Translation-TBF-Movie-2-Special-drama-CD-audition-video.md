@@ -1,14 +1,24 @@
 ---
 layout: post
+title: LOFFER文档
+date: 2019-06-02
+Author: 来自中世界
+categories: 
+tags: [sample, document]
+comments: true
+--- 
+---
+layout:post
 title:【翻译】Thunderbolt Fantasy 西幽玹歌 Blu-ray＆DVD特典广播剧试听段落
-date: 2020-03-21
+date:2020-03-21
 author: Kotonyan
 tags: [Thunderbolt Fantasy, 西幽玹歌]
 comments: true
 ---
+
 日语原文＆简中翻译对照版，仅供学习参考使用
                                              
-试听段落视频：[微博](https://weibo.com/7282877461/IzuGW7Hbc?from=page_1005057282877461_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment)；[油管](https://youtu.be/Nk8PUnBIle4)
+试听段落视频：[微博](https://weibo.com/7282877461/IzuGW7Hbc?from=page_1005057282877461_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment)；[油管](https://youtu.be/Nk8PUnBIle4)。
 
 出演：鸟海浩辅〈凛雪鸦 配音〉；诹访部顺一〈殇不患 配音〉；西川贵教〈浪巫谣 配音〉；小西克幸〈聆牙 配音〉
      
