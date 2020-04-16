@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: 【翻译】Thunderbolt Fantasy 西幽玹歌 Blu-ray＆DVD特典广播剧试听段落
 date: 2020-03-21 02:27
 Author: Kotonyan
 categories: 
@@ -8,9 +8,7 @@ tags: [Thunderbolt Fantasy, 西幽玹歌]
 comments: true
 --- 
 
-# 【翻译】Thunderbolt Fantasy 西幽玹歌 Blu-ray＆DVD特典广播剧试听段落
-
-### 日语原文＆简中翻译对照版，仅供学习参考使用
+日语原文＆简中翻译对照版，仅供学习参考使用
                                              
 <p align="justify">​​试听段落视频：</p>
 <p align="justify"><a href="https://weibo.com/7282877461/IzuGW7Hbc?from=page_1005057282877461_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment">https://weibo.com/7282877461/IzuGW7Hbc?from=page_1005057282877461_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment</a></p>
