@@ -8,19 +8,9 @@ comments: true
 ---
 日语原文＆简中翻译对照版，仅供学习参考使用
                                              
-试听段落视频：
+试听段落视频：[微博](https://weibo.com/7282877461/IzuGW7Hbc?from=page_1005057282877461_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment)；[油管](https://youtu.be/Nk8PUnBIle4)
 
-【微博】[https://weibo.com/7282877461/IzuGW7Hbc?from=page_1005057282877461_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment](https://weibo.com/7282877461/IzuGW7Hbc?from=page_1005057282877461_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment)
-
-油管[https://youtu.be/Nk8PUnBIle4](https://youtu.be/Nk8PUnBIle4)
-
-出演：鸟海浩辅〈凛雪鸦 配音〉
-
-     诹访部顺一〈殇不患 配音〉
-     
-     西川贵教〈浪巫谣 配音〉
-     
-     小西克幸〈聆牙 配音〉
+出演：鸟海浩辅〈凛雪鸦 配音〉；诹访部顺一〈殇不患 配音〉；西川贵教〈浪巫谣 配音〉；小西克幸〈聆牙 配音〉
      
 ·
 
@@ -29,9 +19,14 @@ comments: true
 ·
 
 <b>（背景音：酒屋の笑い声）</b>
+
 （背景音：小酒馆里的笑声）
+
+
 <font color="#d24a35"><b>浪巫謠：月…か…あの日もまた、月が出ていた。冴え冴え（さえざえ）とした月。遠きあの地、あの日にもまた、月が出…あの日のように、俺は…杯（さかずき）を交わしている。歳月がすぎ、土地が変わっても、月だけは変わらず、冴え冴え（さえざえ）と輝（て）っている。</b></font>
+
 <font color="#ff8a78">浪巫谣：是……月亮啊……那夜也是一晚明月夜。月色清冽而又澄澈。在遥远的那片土地、那一夜，也是这般明月当空……我，也如那夜一般，在月下推杯换盏。岁月如梭，即便身处的土地已然改变，明月却依旧如故，散发着清冽而又澄澈的光芒……</font>
+
 
 <font color="#d49225"><b>殤不患：巫謠（ふよう）…随分とぼーっとしているじゃないか。先から酒が減ってねぇがどうした？</b></font>
 <font color="#fec467">殇不患：巫谣……怎么一直愣着啊？刚才就没见你动过杯。</font>
@@ -73,8 +68,12 @@ comments: true
 <font color="#fec467">殇不患：随你，不过你该不会又在动什么歪脑筋吧？</font>
 
 The End
-----
+
+---
+
 未经许可，请勿转载。
+
 原文听写&翻译 by Kotonyan（新浪微博@宅家吃土K喵喵）
+
 校对 by 莫吾飞-maple（新浪微博@莫吾飞-maple）
 
