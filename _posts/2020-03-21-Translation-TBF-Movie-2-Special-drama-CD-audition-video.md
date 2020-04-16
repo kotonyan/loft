@@ -5,24 +5,29 @@ date: 2020-03-21
 author: Kotonyan
 tags: [Thunderbolt Fantasy, 西幽玹歌]
 comments: true
-toc: true
-pinned: true
 ---
 日语原文＆简中翻译对照版，仅供学习参考使用
                                              
 试听段落视频：
-[https://weibo.com/7282877461/IzuGW7Hbc?from=page_1005057282877461_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment](https://weibo.com/7282877461/IzuGW7Hbc?from=page_1005057282877461_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment)
-或
-[https://youtu.be/Nk8PUnBIle4](https://youtu.be/Nk8PUnBIle4)
 
+【微博】[https://weibo.com/7282877461/IzuGW7Hbc?from=page_1005057282877461_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment](https://weibo.com/7282877461/IzuGW7Hbc?from=page_1005057282877461_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment)
+
+油管[https://youtu.be/Nk8PUnBIle4](https://youtu.be/Nk8PUnBIle4)
 
 出演：鸟海浩辅〈凛雪鸦 配音〉
+
      诹访部顺一〈殇不患 配音〉
+     
      西川贵教〈浪巫谣 配音〉
+     
      小西克幸〈聆牙 配音〉
+     
 ·
+
 ·
+
 ·
+
 <b>（背景音：酒屋の笑い声）</b>
 （背景音：小酒馆里的笑声）
 <font color="#d24a35"><b>浪巫謠：月…か…あの日もまた、月が出ていた。冴え冴え（さえざえ）とした月。遠きあの地、あの日にもまた、月が出…あの日のように、俺は…杯（さかずき）を交わしている。歳月がすぎ、土地が変わっても、月だけは変わらず、冴え冴え（さえざえ）と輝（て）っている。</b></font>
