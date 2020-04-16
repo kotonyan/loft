@@ -1,17 +1,9 @@
 ---
 layout: post
-title: LOFFER文档
-date: 2019-06-02
-Author: 来自中世界
-categories: 
-tags: [sample, document]
-comments: true
---- 
----
-layout:post
-title:【翻译】Thunderbolt Fantasy 西幽玹歌 Blu-ray＆DVD特典广播剧试听段落
-date:2020-03-21
-author: Kotonyan
+title: 【翻译】Thunderbolt Fantasy 西幽玹歌 Blu-ray＆DVD特典广播剧试听段落
+date: 2020-03-21
+Author: Kotonyan
+categories: Translation
 tags: [Thunderbolt Fantasy, 西幽玹歌]
 comments: true
 ---
