@@ -10,7 +10,7 @@ comments: true
 
 日语原文＆简中翻译对照版，仅供学习参考使用
                                              
-试听段落视频：[微博](https://weibo.com/7282877461/IzuGW7Hbc?from=page_1005057282877461_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment)；[油管](https://youtu.be/Nk8PUnBIle4)。
+试听段落视频：[油管](https://youtu.be/Nk8PUnBIle4)；[微博](https://weibo.com/7282877461/IzuGW7Hbc?from=page_1005057282877461_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment)；
 
 出演：鸟海浩辅〈凛雪鸦 配音〉；诹访部顺一〈殇不患 配音〉；西川贵教〈浪巫谣 配音〉；小西克幸〈聆牙 配音〉
      
