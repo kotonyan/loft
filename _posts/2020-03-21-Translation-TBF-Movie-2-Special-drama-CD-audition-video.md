@@ -10,10 +10,10 @@ comments: true
 
 日语原文＆简中翻译对照版，仅供学习参考使用
                                              
-<p align="justify">​​试听段落视频：</p>
-<p align="justify"><a href="https://weibo.com/7282877461/IzuGW7Hbc?from=page_1005057282877461_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment">https://weibo.com/7282877461/IzuGW7Hbc?from=page_1005057282877461_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment</a></p>
+<p align="justify">试听段落视频：</p>
+<p align="justify"><a href="https://weibo.com/7282877461/IzuGW7Hbc?from=page_1005057282877461_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment">微博</a></p>
 或
-<p align="justify"><a href="https://youtu.be/Nk8PUnBIle4">https://youtu.be/Nk8PUnBIle4</a></p>
+<p align="justify"><a href="https://youtu.be/Nk8PUnBIle4">优酷</a></p>
 <p align="justify"><br></p>
 <p align="justify">出演：鸟海浩辅〈凛雪鸦 配音〉</p>
 <p align="justify">&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;诹访部顺一〈殇不患 配音〉</p>
