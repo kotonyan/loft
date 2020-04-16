@@ -12,6 +12,8 @@ comments: true
 >
 >页面地址：[https://weibo.com/7282877461/IzytBesXC](https://weibo.com/7282877461/IzytBesXC)
 
+
+
 日语原文＆简中翻译对照版，仅供学习参考使用
                                              
 试听段落视频：[微博](https://weibo.com/7282877461/IzuGW7Hbc)；[油管](https://www.youtube.com/watch?v=Nk8PUnBIle4)
