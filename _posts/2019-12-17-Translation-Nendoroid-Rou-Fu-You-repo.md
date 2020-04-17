@@ -52,7 +52,9 @@ comments: true
 
 「[グッスマオンラインショップ](https://goodsmileshop.com/ja/%e3%82%ab%e3%83%86%e3%82%b4%e3%83%aa%e3%83%bc%e3%83%ab%e3%83%bc%e3%83%88/%e3%81%ad%e3%82%93%e3%81%a9%e3%82%8d%e3%81%84%e3%81%a9/%e3%81%ad%e3%82%93%e3%81%a9%e3%82%8d%e3%81%84%e3%81%a9-%e6%b5%aa%e5%b7%ab%e8%ac%a0/p/GSC_JP_00147)」でのご予約は、2020年1月8日（水）21時まで！
 
-さらなる詳細は「[カホタンブログ](https://ameblo.jp/gsc-mikatan/entry-12549369841.html)」でしっかりご紹介されております。ぜひご検討くださいませ。
+さらなる詳細は「[カホタンブログ](https://ameblo.jp/gsc-mikatan/entry-12549369841.html)」でしっかりご紹介されております。
+
+ぜひご検討くださいませ。
 
 [Good Smile Online Shop](https://goodsmileshop.com/ja/%e3%82%ab%e3%83%86%e3%82%b4%e3%83%aa%e3%83%bc%e3%83%ab%e3%83%bc%e3%83%88/%e3%81%ad%e3%82%93%e3%81%a9%e3%82%8d%e3%81%84%e3%81%a9/%e3%81%ad%e3%82%93%e3%81%a9%e3%82%8d%e3%81%84%e3%81%a9-%e6%b5%aa%e5%b7%ab%e8%ac%a0/p/GSC_JP_00147)<font color="#d49225">的预订截止日期为（日本时间）2020年1月8日（周三）21时！</font>
 
