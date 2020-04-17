@@ -4,7 +4,7 @@ title: 【翻译】《Thunderbolt Fantasy 西幽玹歌》Blu-ray＆DVD特典广�
 date: 2020-03-21
 Author: Kotonyan
 categories: Translation
-tags: [Thunderbolt Fantasy, 西幽玹歌]
+tags: [Thunderbolt Fantasy,西幽玹歌]
 comments: true
 ---
 
