@@ -54,12 +54,14 @@ comments: true
 
 さらなる詳細は「[カホタンブログ](https://ameblo.jp/gsc-mikatan/entry-12549369841.html)」でしっかりご紹介されております。ぜひご検討くださいませ。
 
-<font color="#d49225">[Good Smile Online Shop](https://goodsmileshop.com/ja/%e3%82%ab%e3%83%86%e3%82%b4%e3%83%aa%e3%83%bc%e3%83%ab%e3%83%bc%e3%83%88/%e3%81%ad%e3%82%93%e3%81%a9%e3%82%8d%e3%81%84%e3%81%a9/%e3%81%ad%e3%82%93%e3%81%a9%e3%82%8d%e3%81%84%e3%81%a9-%e6%b5%aa%e5%b7%ab%e8%ac%a0/p/GSC_JP_00147)的预订截止日期为（日本时间）2020年1月8日（周三）21时！</font>
+[Good Smile Online Shop](https://goodsmileshop.com/ja/%e3%82%ab%e3%83%86%e3%82%b4%e3%83%aa%e3%83%bc%e3%83%ab%e3%83%bc%e3%83%88/%e3%81%ad%e3%82%93%e3%81%a9%e3%82%8d%e3%81%84%e3%81%a9/%e3%81%ad%e3%82%93%e3%81%a9%e3%82%8d%e3%81%84%e3%81%a9-%e6%b5%aa%e5%b7%ab%e8%ac%a0/p/GSC_JP_00147)<font color="#d49225">的预订截止日期为（日本时间）2020年1月8日（周三）21时！</font>
 
-<font color="#d49225"></font>[Kahotan博客](https://ameblo.jp/gsc-mikatan/entry-12549369841.html)<font color="#d49225">中还介绍有更多更详细的内容。</font>
+[Kahotan博客](https://ameblo.jp/gsc-mikatan/entry-12549369841.html)<font color="#d49225">中还介绍有更多更详细的内容。</font>
 
 <font color="#d49225">请务必考虑一下吧。</font>
-<br>
-----
+
+---
+
 Kahotan博客中文官方翻译：[https://www.weibo.com/2638252657/Iij51nxjR](https://www.weibo.com/2638252657/Iij51nxjR)
+<br>
 <br>
