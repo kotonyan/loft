@@ -3,7 +3,7 @@ layout: post
 title: 【置顶】博客更新备忘
 date: 2020-04-17
 author: Kotonyan
-tags: [sample, document]
+tags: [memo]
 comments: true
 toc: true
 pinned: true
