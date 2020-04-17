@@ -4,7 +4,7 @@ title: 【翻译】《Thunderbolt Fantasy 西幽玹歌》官网repo 粘土人浪
 date: 2019-12-17
 Author: Kotonyan
 categories: Translation
-tags: [Thunderbolt Fantasy,西幽玹歌]
+tags: [Thunderbolt Fantasy,东离剑游纪,西幽玹歌]
 comments: true
 ---
 
