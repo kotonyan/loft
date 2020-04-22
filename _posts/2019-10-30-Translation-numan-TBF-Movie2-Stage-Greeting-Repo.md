@@ -4,7 +4,7 @@ title: 【翻译】[numan编辑部]《Thunderbolt Fantasy 西幽玹歌》舞台�
 date: 2019-10-30
 Author: Kotonyan
 categories: Translation
-tags: [Thunderbolt Fantasy,西幽玹歌]
+tags: [Thunderbolt Fantasy,西幽玹歌,西川贵教,东山奈央,虚渊玄,诹访部顺一,鹫崎健]
 comments: true
 ---
 
