@@ -77,10 +77,10 @@ comments: true
   [http://www.thunderboltfantasy.com/](http://www.thunderboltfantasy.com/)
   
 ■公式Twitter
-  @TBF_PR 　[https://twitter.com/TBF_PR](https://twitter.com/TBF_PR）
+  @TBF_PR [https://twitter.com/TBF_PR](https://twitter.com/TBF_PR)
   ハッシュタグは #サンファン 
-  <font color="#9053b9">■官方推特
-  @TBF_PR 　[https://twitter.com/TBF_PR](https://twitter.com/TBF_PR）
+  <font color="#9053b9">■官方推特(日文)</font>
+  @TBF_PR [https://twitter.com/TBF_PR](https://twitter.com/TBF_PR)
   话题tag为 #サンファン
 
 (C)2016-2019 Thunderbolt Fantasy Project
