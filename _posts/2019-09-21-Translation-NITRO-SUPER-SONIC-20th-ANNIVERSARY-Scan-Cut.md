@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【翻译】NITRO SUPER SONIC 20th ANNIVERSARY 官方场刊 浪巫谣篇
-date: 2019-9-21
+date: 2019-09-21
 Author: Kotonyan
 categories: Translation
 tags: [Thunderbolt Fantasy,东离剑游纪]
