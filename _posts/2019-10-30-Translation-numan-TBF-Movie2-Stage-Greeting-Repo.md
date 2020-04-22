@@ -71,16 +71,23 @@ comments: true
   <font color="#9053b9">虽然（被虚渊先生）以“会怎么出场现在还不好说……”这样含糊不清的发言给模糊了过去，但确定拍摄是已然正在进行中了。为了能百分百地享受今后预定播出的3期，想来现正上映中的《Thunderbolt Fantasy 西幽玹歌》也是粉丝们必看的一作了。</font>
 
 ■公式webサイト
-  [http://www.thunderboltfantasy.com/](http://www.thunderboltfantasy.com/)
+
+[http://www.thunderboltfantasy.com/](http://www.thunderboltfantasy.com/)
 
 <font color="#9053b9">■官方网站（日文）</font>
-  [http://www.thunderboltfantasy.com/](http://www.thunderboltfantasy.com/)
+
+[http://www.thunderboltfantasy.com/](http://www.thunderboltfantasy.com/)
   
 ■公式Twitter
-  @TBF_PR [https://twitter.com/TBF_PR](https://twitter.com/TBF_PR)
-  ハッシュタグは #サンファン 
-  <font color="#9053b9">■官方推特(日文)</font>
-  @TBF_PR [https://twitter.com/TBF_PR](https://twitter.com/TBF_PR)
-  话题tag为 #サンファン
+
+@TBF_PR [https://twitter.com/TBF_PR](https://twitter.com/TBF_PR)
+
+ハッシュタグは #サンファン 
+
+<font color="#9053b9">■官方推特(日文)</font>
+
+@TBF_PR [https://twitter.com/TBF_PR](https://twitter.com/TBF_PR)
+
+话题tag为 #サンファン
 
 (C)2016-2019 Thunderbolt Fantasy Project
