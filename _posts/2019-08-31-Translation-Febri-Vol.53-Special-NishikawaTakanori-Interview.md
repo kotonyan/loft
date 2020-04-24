@@ -14,22 +14,23 @@ comments: true
 
 日语原文＆简中翻译对照版，仅供学习参考使用
 
-Febri Vol.53 Thunderbolt Fantasy 东离剑游纪2 特辑 西川贵教访谈
-《Febri Vol.53》P52
-<b>Interview</b>
-<b>浪巫謡（ロウフヨウ）役·OP＆ED主題歌担当</b>
-<b>西川貴教</b>
-<br>
+《Febri Vol.53》P52 杂志原图
+！[《Febri Vol.53》P52 杂志原图](https://wx4.sinaimg.cn/large/a8ca3afegy1g6igyl1mvzj20u01dzkjm.jpg "《Febri Vol.53》P52 杂志原图")
+
+**Interview**
+  **浪巫謡（ロウフヨウ）役·OP＆ED主題歌担当**
+  **西川貴教**
+
 <b><font color="#d24a35">访谈</font></b>
-<b><font color="#d24a35">浪巫谣（Rou Fu You）配音·片头曲＆片尾曲主题歌担当</font></b>
-<b><font color="#d24a35">西川贵教</font></b>
-<br>
-<b>第1期から引き続き主題歌を担当する西川貴教。『Thunderbolt Fantasy 生死一剣』以降は浪巫謡役のポイスキャストとしても視聴者を魅了する。作品に込めた熱い気持ちを語ってもらった。（取材·文／前田 久）</b>
-<br>
+  <b><font color="#d24a35">浪巫谣（Rou Fu You）配音·片头曲＆片尾曲主题歌担当</font></b>
+  <b><font color="#d24a35">西川贵教</font></b>
+
+**第1期から引き続き主題歌を担当する西川貴教。『Thunderbolt Fantasy 生死一剣』以降は浪巫謡役のポイスキャストとしても視聴者を魅了する。作品に込めた熱い気持ちを語ってもらった。（取材·文／前田 久）**
+
 <b><font color="#d24a35">自一期以来，西川贵教继续演唱了（本期的）主题歌。而在《Thunderbolt Fantasy 生死一剑》之后，作为浪巫谣一角的配音演员的他也是吸引了大批的观众。本次访谈便邀请到了他就其对作品的热诚情谊来上了一番恳谈。 （采访·撰稿：前田久）</font></b>
-<br>
+
 PROFILE
-にしかわ·たかのり　1970年9月19日生まれ、滋賀県出身。 1996年からソロプロジェクト「T.M.Revolution」として活動。「HOT LIMIT」「INVOKE-インヴォーク-」などヒソト曲多数。2018年から本名名義での活動を本格的に開始。
+  にしかわ·たかのり　1970年9月19日生まれ、滋賀県出身。 1996年からソロプロジェクト「T.M.Revolution」として活動。「HOT LIMIT」「INVOKE-インヴォーク-」などヒソト曲多数。2018年から本名名義での活動を本格的に開始。
 
 <font color="#d24a35">个人简介</font>
 <font color="#d24a35">Nishikawa Takanori：1970年9月19日出生于滋贺县。1996年开始以个人企划“T.M. Revolution”开展演艺工作。演唱有《HOT LIMIT》、《INVOKE》等诸多热门歌曲。2018年开始正式以真名开展演艺工作。</font>
@@ -62,8 +63,7 @@ PROFILE
 <br></p>
 <font color="#333333"><b>〈完〉</b></font>
 
-杂志原图
-<img src="https://wx4.sinaimg.cn/large/a8ca3afegy1g6igyl1mvzj20u01dzkjm.jpg" alt="《Febri Vol.53》P52 杂志原图"><span class="picinfo">《Febri Vol.53》P52 杂志原图</span></p>
+
 
 ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★
 《Febri Thunderbolt Fantasy 东离剑游纪2 18页大特辑》Kindle版购买地址→
