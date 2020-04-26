@@ -18,38 +18,45 @@ comments: true
 
 2016年11月13日，秋叶原UDX内举办了专门关于独立游戏的展示即卖会“电游博”。展会上云集了来自日本各地的同人・独立游戏，下文开始笔者将就本次展会的情形以及在展会上精挑细选而出的同人・独立游戏为大家做出报道。
 
-“电游博”是一个专门关于同人・独立游戏的展示即卖会，本次已经是它第4次的召开了。随着召开次数的递增，会场内的热闹程度也是一回更胜一回，这一回更是充分反映了各种VR头戴设备已经在一般层面上广泛流传开了的现状，像是关于自行车创业的《**星之碎片物语**》啦；由《狼与香辛料狼》的作者——支仓冻砂老师经手的《**Project LUX**》啦；能与Project ICKX的商业作品相比肩的图像飞行游戏《**Concept Model 1- VR Preview -**》啦；还有意外地也来参展了的Cygames股份有限公司的《AGE AGE VR》啦等等，展位前排队等待试玩的人从展会开始到展会结束队伍就没有断过，让笔者见识到了展会的空前盛况。
+“电游博”是一个专门关于同人・独立游戏的展示即卖会，本次已经是它第4次的召开了。随着召开次数的递增，会场内的热闹程度也是一回更胜一回，这一回更是充分反映了各种VR头戴设备已经在一般层面上广泛流传开了的现状，像是关于自行车创业的《**星之碎片物语**》啦；由《狼与香辛料狼》的作者——支仓冻砂老师经手的《**Project LUX**》啦；能与Project ICKX的商业作品相比肩的图像飞行游戏《**Concept Model 1- VR Preview -**》啦；还有意外地也来参展了的Cygames股份有限公司的《**AGE AGE VR**》啦等等，展位前排队等待试玩的人从展会开始到展会结束队伍就没有断过，让笔者见识到了展会的空前盛况。
 
 除了VR游戏以外，“电游博”上自然还展出了许多其它的同人・独立游戏。编辑部依据一己之见从中精挑细选出了数个不包含VR的标题及展位，下面就为大家一一地详细介绍。
 
-■winter clown works《Merkava Avalanche》
+◆◆◆ ◆◆◆ ◆◆◆
 
-[此处有插入YouTube视频]
+##  ■winter clown works《Merkava Avalanche》
 
-winter clown works正在制作中的《Merkava Avalanche》是一款面向PC平台的3D机甲动作游戏，游戏中玩家可以操纵战车类型的巨型机械来场激烈的碰撞。从它特异而又富有魅力的视觉影像中大致可以想象得出，应该是需要对手中持握着的矛状武器进行充能，并以该武器为主体来进行战斗的玩法。本作为了追求电影般的演出效果，还将挑战在游戏时大部分的UI都不会被显示的特殊做法。
-[此处有插入图片]
+PV观看地址：[油管](https://youtu.be/oCJjx3NZ5ko)
+
+winter clown works正在制作中的《**Merkava Avalanche**》是一款面向PC平台的3D机甲动作游戏，游戏中玩家可以操纵战车类型的巨型机械来场激烈的碰撞。从它特异而又富有魅力的视觉影像中大致可以想象得出，应该是需要对手中持握着的矛状武器进行充能，并以该武器为主体来进行战斗的玩法。本作为了追求电影般的演出效果，还将挑战在游戏时大部分的UI都不会被显示的特殊做法。
+
+![Merkava Avalanche repo 1](https://www.gamespark.jp/imgs/zoom/170031.jpg)
 
 仅以试玩的感受来说，游戏中机甲的动作，尤其是涉及到巨型机械冲突时的重量感和操作性等还有待调整，但好在游戏的基础已经大致上完成了，今后应该能成为一款值得期待的作品。顺便，本作已于2016年11月13日登上了Steam Greenlight，有兴趣的读者可以关注一下。
 
-[此处有插入图片]
+![Merkava Avalanche repo 2](https://www.gamespark.jp/imgs/zoom/170032.jpg)
 
-《Merkava Avalanche》的官方网站请点击此处[[[http://wintercrownworks.jimdo.com/]]]。Steam Greenlight的页面请点击此处[[[http://steamcommunity.com/sharedfiles/filedetails/?id=797904668]]]。
+《Merkava Avalanche》的官方网站请[点击此处](http://wintercrownworks.jimdo.com/)。Steam Greenlight的页面请[点击此处](http://steamcommunity.com/sharedfiles/filedetails/?id=797904668)。
 
-■Harukana Game《Princess Defense 2（暂定）》和《Princess Defense》
+##  ■Harukana Game《Princess Defense 2（暂定）》和《Princess Defense》
 
 [此处有插入图片]
 
 Harukana Game面向PC/Android/iOS平台开发中的塔防类型游戏《Princess Defense 2（暂定）》本次除了影像视频的展出外，也终于可以现场试玩了。与接近普通塔防游戏的前作不同，本作中作为主人公的可爱的公主殿下会在3D地图上自动行走，而玩家则需要点击并移动她周围的单位对她进行保护。本作预定于2017年冬季进行发售，目前尚处于开发初期，具体内容还属未知，暂且先让我们期待它的顺利完成吧。
+
 [此处有插入图片]
+
 [此处有插入图片]
+
 [此处有插入YouTube视频]
+
 另外，针对已经在Steam Greenlight上获得了Greenlit青睐[[[http://steamcommunity.com/sharedfiles/filedetails/?id=750343043]]]的本作前作——《Princess Defense》的PC版，目前的说法是期望能在今后的1个月内发售，就让我们拭目以待吧。
 
 [此处有插入图片]
 
 Harukana Game的官方网站请点击此处[[[http://harukanagame.com/]]]。《Princess Defense》的官方网站请点击此处[[[http://harukanagame.com/princessdefense/]]]。
 
-■tomeapp《Valley Ball 2on2》和《PRINCIPIA: Master of Science》
+##  ■tomeapp《Valley Ball 2on2》和《PRINCIPIA: Master of Science》
 [此处有插入图片]
 
 模拟经营类游戏《PRINCIPIA: Master of Science》目前正在Steam抢先体验中，游戏里玩家扮演一名中世纪欧洲的著名科学家，为了保留下自己伟大的研究成果，玩家需要与其他科学家进行激烈的交锋。本次展会上，该游戏的开发商tomeapp还同时销售有排球对战游戏《Valley Ball 2on2》的PC版。本作始发于1994年，是一款面向于在当年被称为国民机的、NEC的个人用电脑“PC9801”系列的免费软件，tomeapp对其做了面向现行PC的平台移植，销售方式采用了付费下载的形式，买家现场付费后可以得到一张印有下载地址和序列号的卡片，根据卡片上的提示进行下载。
@@ -62,7 +69,7 @@ Harukana Game的官方网站请点击此处[[[http://harukanagame.com/]]]。《P
 [此处有插入图片]
 tomeapp的官方网站请点击此处[[[http://tomeapp.jp/]]]。《PRINCIPIA: Master of Science》现正在Steam上[[[http://store.steampowered.com/app/491470]]]以980日元（中国区为36人民币）的价格销售中。
 
-■myohu会《四季之狂剑・神无绝景》
+##  ■myohu会《四季之狂剑・神无绝景》
 
 [此处有插入图片]
 
@@ -77,7 +84,7 @@ myohu会的《四季之狂剑・神无绝景》是一款以流畅的动画来展
 
 myohu会的官方网站请点击此处[[[http://hoppeman.sakura.ne.jp/]]]。《四季之狂剑・神无绝景》的官方网站请点击此处[[[http://hoppeman.sakura.ne.jp/siki2/s2_top.html]]]。
 
-■山田屋《SoulSaber 1.5》和《SoulSaber 2》
+##  ■山田屋《SoulSaber 1.5》和《SoulSaber 2》
 
 [此处有插入图片]
 
@@ -92,24 +99,23 @@ myohu会的官方网站请点击此处[[[http://hoppeman.sakura.ne.jp/]]]。《�
 
 山田屋的官方网站请点击此处<[[[http://www.maroon.dti.ne.jp/yamadayaar/]]]。《SoulSaber 1.5》的官方网站请点击此处[[[http://www.maroon.dti.ne.jp/yamadayaar/ss15operation.html]]]。
 
-■网络技术股份有限公司（Web Technology Corp.）
+##  ■株式会社网络技术（Web Technology Corp.）
 
 [此处有插入图片]
 
-电游博上大半的展位都由个人和类似的小规模独立开发着构成，但其中，一手制作了动画制作工具《OPTPiX SpriteStudio》的网络技术股份有限公司（Web Technology Corp.）却也出展了。就同公司的展位来看，该公司本次出展也兼有面向独立开发者宣传《OPTPiX SpriteStudio》的目的。同时展出的还有，由原cave（指cave股份有限公司，日文名“株式会社ケイブ”，英文名“Cave Co., Ltd.”，是一家游戏制作公司）的制作者制作；由原ZUNTATA（*太东股份有限公司，即Taito Corporation的音乐开发部门部门）的小盐广合氏负责音乐；使用了《OPTPiX SpriteStudio》制作的STG游戏《Rolling Gunner》（*日文原标题写作“ローリングガンナー”），并且展出的开发版本可以一直试玩到第4关。
-
-
+电游博上大半的展位都由个人和类似的小规模独立开发者构成。但在其中，一手制作了动画制作工具《OPTPiX SpriteStudio》的株式会社网络技术（Web Technology Corp.）却也出展了。就同公司的展位来看，该公司本次出展也兼有面向独立开发者宣传《OPTPiX SpriteStudio》的目的。同时展出的还有，由原cave（指cave股份有限公司，日文名“株式会社ケイブ”，英文名“Cave Co., Ltd.”，是一家游戏制作公司）的制作者制作；由原ZUNTATA（注：太东股份有限公司，即Taito Corporation的音乐开发部门部门）的小盐广合氏负责音乐；使用了《OPTPiX SpriteStudio》制作的STG游戏《Rolling Gunner》（注：日文原标题写作“ローリングガンナー”），并且展出的开发版本可以一直试玩到第4关。
 
 [此处有插入图片]
 [此处有插入图片]
 [此处有niconico视频]
 
-顺便多说一句，独立开发者Nigoro正在开发中的《LA-MULANA 2》中也使用了《OPTPiX SpriteStudio》这款软件，因着这个缘分，当看到由Nigoro制作的同一工具的卡贴时，喜欢复古游戏的人肯定会不由自主的做出了然的微笑、联想到“漫山的谐拟”（*指卡贴上的绿色点阵小人很像由明治出品的日本国民零食“きのこの山”，即“漫山的香菇是一种做成香菇形状的裹有巧克力涂层的小饼干）这个梗吧。
+顺便多说一句，独立开发者Nigoro正在开发中的《LA-MULANA 2》中也使用了《OPTPiX SpriteStudio》这款软件，因着这个缘分，当看到由Nigoro制作的同一工具的卡贴时，喜欢复古游戏的人肯定会不由自主的做出了然的微笑、联想到“漫山的谐拟”（注：指卡贴上的绿色点阵小人很像由明治出品的日本国民零食“きのこの山”，即“漫山的香菇”，是一种做成香菇形状的裹有巧克力涂层的小饼干）这个梗吧。
 
 [此处有插入图片]
-网络技术股份有限公司（Web Technology Corp.）的官方网站请点击此处[[[http://www.webtech.co.jp/]]]。《Rolling Gunner》的官方网站请点击此处[[[http://www.geocities.jp/dij4121/alpha/npage/rg.html]]]。
 
-■Rabbit Soft Worker's《Secret design of the HEARTS-DREAMDROPS-》和《LOST WORD》
+株式会社网络技术（Web Technology Corp.）的官方网站请点击此处[[[http://www.webtech.co.jp/]]]。《Rolling Gunner》的官方网站请点击此处[[[http://www.geocities.jp/dij4121/alpha/npage/rg.html]]]。
+
+##  ■Rabbit Soft Worker's《Secret design of the HEARTS-DREAMDROPS-》和《LOST WORD》
 
 [此处有插入图片]
 
@@ -126,11 +132,11 @@ myohu会的官方网站请点击此处[[[http://hoppeman.sakura.ne.jp/]]]。《�
 
 Rabbit Soft Worker's的官方网站请点击此处[[[http://targetarea.webcrow.jp/]]]。《Secret design of the HEARTS-DREAMDROPS-》的官方网站请点击此处[[[http://targetarea.webcrow.jp/Object/HEARTS2.htm]]]。
 
-■Soldier Storage《Princess Night》
+##  ■Soldier Storage《Princess Night》
 
 [此处有插入图片]
 
-占用了相当大的桌子进行展出的Soldier Storage的《Princess Night》，是一款由声优畠中爱（*畠，汉字念“zāi”或“zī”，用作日文姓氏时念做“tián”）策划的，面向Android/iOS平台的视觉小说游戏。本作的故事展开以童话的主人公们交织而成的暗黑物语为主，共计7章，预定将都以免费软件的形式开放下载。
+占用了相当大的桌子进行展出的Soldier Storage的《Princess Night》，是一款由声优畠中爱（注：畠，汉字念“zāi”或“zī”，用作日文姓氏时念做“tián”）策划的，面向Android/iOS平台的视觉小说游戏。本作的故事展开以童话的主人公们交织而成的暗黑物语为主，共计7章，预定将都以免费软件的形式开放下载。
 [此处有插入图片]
 
 展位上除了有角色周边的销售和人气投票等活动外，出演了作品的声优还亲自到走道中央去招呼过往的路人，让我们充分见识到了通常所说的所谓富有同人游戏的浓厚色彩以及独立游戏特有的强大活力。
@@ -138,7 +144,7 @@ Rabbit Soft Worker's的官方网站请点击此处[[[http://targetarea.webcrow.j
 
 《Princess Night》的官方网站请点击此处[[[http://purinai.dojin.com/]]]。
 
-■多次元Clock《ManaCollect 2nd》和《ManaCollect》
+##  ■多次元Clock《ManaCollect 2nd》和《ManaCollect》
 
 [此处有插入图片]
 
@@ -148,7 +154,7 @@ Steam上由Fruitbat Factory发行的面向PC平台的《ManaCollect》正在发�
 
 多次元Clock的官方网站请点击此处[[[http://c4h9li.blog2.fc2.com/]]]。《ManaCollect》英文版现正在Steam上[[[http://store.steampowered.com/app/335200/]]]以698日元（中国区为28人民币）的价格销售中。
 
-■京Yuni《Shift Shooter》、《TERA》、《太阳人类》（原日文标题为“太陽人間”）和《MachineClad》
+##  ■京Yuni《Shift Shooter》、《TERA》、《太阳人类》（原日文标题为“太陽人間”）和《MachineClad》
 
 [此处有插入图片]
 
@@ -173,7 +179,7 @@ Steam上由Fruitbat Factory发行的面向PC平台的《ManaCollect》正在发�
 《MachineClad》
 
 
-■ONION Software《Hot Soup Processor》
+##  ■ONION Software《Hot Soup Processor》
 
 [此处有插入图片]
 
