@@ -40,53 +40,55 @@ winter clown works正在制作中的《**Merkava Avalanche**》是一款面向PC
 
 ##  ■Harukana Game《Princess Defense 2（暂定）》和《Princess Defense》
 
-[此处有插入图片]
+![Harukana Game repo 1](https://www.gamespark.jp/imgs/zoom/170033.jpg)
 
-Harukana Game面向PC/Android/iOS平台开发中的塔防类型游戏《Princess Defense 2（暂定）》本次除了影像视频的展出外，也终于可以现场试玩了。与接近普通塔防游戏的前作不同，本作中作为主人公的可爱的公主殿下会在3D地图上自动行走，而玩家则需要点击并移动她周围的单位对她进行保护。本作预定于2017年冬季进行发售，目前尚处于开发初期，具体内容还属未知，暂且先让我们期待它的顺利完成吧。
+Harukana Game面向PC/Android/iOS平台开发中的塔防类型游戏《**Princess Defense 2（暂定）**》本次除了影像视频的展出外，也终于可以现场试玩了。与接近普通塔防游戏的前作不同，本作中作为主人公的可爱的公主殿下会在3D地图上自动行走，而玩家则需要点击并移动她周围的单位对她进行保护。本作预定于2017年冬季进行发售，目前尚处于开发初期，具体内容还属未知，暂且先让我们期待它的顺利完成吧。
 
-[此处有插入图片]
+![Harukana Game repo 2](https://www.gamespark.jp/imgs/zoom/170034.jpg)
 
-[此处有插入图片]
+![Harukana Game repo 3](https://www.gamespark.jp/imgs/zoom/170035.jpg)
 
-[此处有插入YouTube视频]
+PV观看地址：[油管](https://youtu.be/mObY4YRfobI)
 
-另外，针对已经在Steam Greenlight上获得了Greenlit青睐[[[http://steamcommunity.com/sharedfiles/filedetails/?id=750343043]]]的本作前作——《Princess Defense》的PC版，目前的说法是期望能在今后的1个月内发售，就让我们拭目以待吧。
+另外，针对已经在Steam Greenlight上获得了[Greenlit青睐](http://steamcommunity.com/sharedfiles/filedetails/?id=750343043)的本作前作——《Princess Defense》的PC版，目前的说法是期望能在今后的1个月内发售，就让我们拭目以待吧。
 
-[此处有插入图片]
+![Harukana Game repo 4](https://www.gamespark.jp/imgs/zoom/170036.jpg)
 
-Harukana Game的官方网站请点击此处[[[http://harukanagame.com/]]]。《Princess Defense》的官方网站请点击此处[[[http://harukanagame.com/princessdefense/]]]。
+Harukana Game的官方网站请[点击此处](http://harukanagame.com/)。《Princess Defense》的官方网站请[点击此处](http://harukanagame.com/princessdefense/)。
 
 ##  ■tomeapp《Valley Ball 2on2》和《PRINCIPIA: Master of Science》
-[此处有插入图片]
 
-模拟经营类游戏《PRINCIPIA: Master of Science》目前正在Steam抢先体验中，游戏里玩家扮演一名中世纪欧洲的著名科学家，为了保留下自己伟大的研究成果，玩家需要与其他科学家进行激烈的交锋。本次展会上，该游戏的开发商tomeapp还同时销售有排球对战游戏《Valley Ball 2on2》的PC版。本作始发于1994年，是一款面向于在当年被称为国民机的、NEC的个人用电脑“PC9801”系列的免费软件，tomeapp对其做了面向现行PC的平台移植，销售方式采用了付费下载的形式，买家现场付费后可以得到一张印有下载地址和序列号的卡片，根据卡片上的提示进行下载。
+![tomeapp repo 1](https://www.gamespark.jp/imgs/zoom/170037.jpg)
 
-[此处有插入图片]
-[此处有插入YouTube视频]
+模拟经营类游戏《**PRINCIPIA: Master of Science**》目前正在Steam抢先体验中。游戏里玩家扮演一名中世纪欧洲的著名科学家，为了保留下自己伟大的研究成果，玩家需要与其他科学家进行激烈的交锋。本次展会上，该游戏的开发商tomeapp还同时销售有排球对战游戏《**Valley Ball 2on2**》的PC版。本作始发于1994年，是一款面向于在当年被称为国民机的、NEC的个人用电脑“PC9801”系列的免费软件，tomeapp对其做了面向现行PC的平台移植，销售方式采用了付费下载的形式，买家现场付费后可以得到一张印有下载地址和序列号的卡片，根据卡片上的提示进行下载。
+
+![tomeapp repo 2](https://www.gamespark.jp/imgs/zoom/170038.jpg)
+
+PV观看地址：[油管](https://youtu.be/vacXeCoVOVQ)
 
 就可行性来说本作似乎还有支持网络对战的后续企划，但现实情况是该企划并没有赶上本次的展会销售。另外，针对《PRINCIPIA: Master of Science》今后的更新，目前的说法是将于11月中左右在Steam上做出通知，有兴趣的读者可以关注一下。
 
-[此处有插入图片]
-tomeapp的官方网站请点击此处[[[http://tomeapp.jp/]]]。《PRINCIPIA: Master of Science》现正在Steam上[[[http://store.steampowered.com/app/491470]]]以980日元（中国区为36人民币）的价格销售中。
+![tomeapp repo 3](https://www.gamespark.jp/imgs/zoom/170039.jpg)
 
-##  ■myohu会《四季之狂剑・神无绝景》
+tomeapp的官方网站请[点击此处](http://tomeapp.jp/)。《PRINCIPIA: Master of Science》现正在[Steam上](http://store.steampowered.com/app/491470)以980日元（中国区为36人民币）的价格销售中。
 
-[此处有插入图片]
+##  ■myofu会《四季之狂剑・神无绝景》
 
-myohu会的《四季之狂剑・神无绝景》是一款以流畅的动画来展开的、操作简单的对战类动作游戏。本作中配备的视觉小说部分也同样使用了动画的表现形式。本作中，本篇的前篇・后篇已经制作完成，加上已于2016年夏季发售的追加光盘中的内容，这次电游博上销售的即是将这些全部集合到一起的完全版。关于游戏的内容可能看视频的话会更直观一些，本作对LD游戏和1990年代中期各大机型上频频发售过的、以展现动画魅力为主要目的的对战游戏进行了改编，使之切实地具有了动作性，并以可以看清敌我双方动作变化的、分屏显示的形式重新架构了内容。
+![myofu会 repo 1](https://www.gamespark.jp/imgs/zoom/170040.jpg)
 
-[此处有插入图片]
-[此处有niconico视频]
+myofu会的《**四季之狂剑・神无绝景**》是一款以流畅的动画来展开的、操作简单的对战类动作游戏。本作中配备的视觉小说部分也同样使用了动画的表现形式。本作中，本篇的前篇・后篇已经制作完成，加上已于2016年夏季发售的追加光盘中的内容，这次电游博上销售的即是将这些全部集合到一起的完全版。关于游戏的内容可能看视频的话会更直观一些，本作对LD游戏和1990年代中期各大机型上频频发售过的、以展现动画魅力为主要目的的对战游戏进行了改编，使之切实地具有了动作性，并以可以看清敌我双方动作变化的、分屏显示的形式重新架构了内容。
+
+![myohu会 repo 2](https://www.gamespark.jp/imgs/zoom/170041.jpg)
 
 本作不仅在风格上别具一格，包括为游戏增色不少的故事剧情在内，都能够看出开发者对各个部分卯上的十足干劲，叫人印象深刻。可惜的是，本作采用的是Flash的制作，而Flash早已在多方面都宣布了中止后续支持的消息，若要转向其它引擎的话，目前看起来困难尚有许多。进军Steam等平台的进程看来也颇为艰难，希望本作可以多多加油，尽早走出这个难关。
 
-[此处有插入图片]
+![myohu会 repo 3](https://www.gamespark.jp/imgs/zoom/170042.jpg)
 
-myohu会的官方网站请点击此处[[[http://hoppeman.sakura.ne.jp/]]]。《四季之狂剑・神无绝景》的官方网站请点击此处[[[http://hoppeman.sakura.ne.jp/siki2/s2_top.html]]]。
+myohu会的官方网站请[点击此处](http://hoppeman.sakura.ne.jp/)。《四季之狂剑・神无绝景》的官方网站请[点击此处](http://hoppeman.sakura.ne.jp/siki2/s2_top.html)。
 
 ##  ■山田屋《SoulSaber 1.5》和《SoulSaber 2》
 
-[此处有插入图片]
+![山田屋 repo 1]()
 
 山田屋此次销售的是面向PC平台的新作ACT游戏《SoulSaber 1.5》，以及旧作《SoulSaber 2》，卖点是建模漂亮的美少女和机械战斗，是一款最多允许3vs3的3D对战动作射击游戏。色情要素也是作品的一大特征，游戏中的美少女角色在受到伤害后服装也会出现破损，大面积的肌肤会裸露在外，尺度相当得大胆。但就社团成员的话来说，本作的销量并不可观，甚至近年来由于销量低迷，社团还一度陷入了无法继续活动的危机之中。
 
