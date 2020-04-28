@@ -4,7 +4,7 @@ title: 【翻译】[GameSpark 11月17日刊载]【特集】电游博2016编辑�
 date: 2016-11-18
 Author: Kotonyan
 categories: Translation
-tags: [Game]
+tags: [DigiGameExpo]
 comments: true
 ---
 
