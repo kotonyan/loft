@@ -206,11 +206,11 @@ comments: true
 <br>
 <font color="#0000FF"><b>証言開始</b></font>
 <br>
-<font color="#0000FF">开始作证</b></font>
+<font color="#0000FF">开始作证</font>
 <br>
 <font color="#FF4500"><b>〜ミッチャンとの結婚〜</b></font>
 <br>
-<font color="#FF4500">～和小御结婚～</b></font>
+<font color="#FF4500">～和小御结婚～</font>
 <br>
 <font color="#A9A9A9"><b>オバチャン　イニシャルMといえば、ミッちゃんしかいないだろう？</b></font>
 <br>
