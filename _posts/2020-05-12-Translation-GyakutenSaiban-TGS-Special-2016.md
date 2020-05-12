@@ -110,7 +110,7 @@ comments: true
 <br>
 <font color="#1E90FF"><b>ナルホド　な、なんだその妙ちくりんな組み合わせは。</b></font>
 <br>
-<font color="#1E90FF">成步堂：这、这是什么怪异的组合啊。</b></font>
+<font color="#1E90FF">成步堂：这、这是什么怪异的组合啊。</font>
 <br>
 <font color="#A9A9A9"><b>？？？　・・・・・・・・愛は時を超えるんだよ。</b></font>
 <br>
@@ -118,7 +118,7 @@ comments: true
 <br>
 <font color="#1E90FF"><b>ナルホド　え？</b></font>
 <br>
-<font color="#1E90FF"><b>成步堂：诶？</font>
+<font color="#1E90FF">成步堂：诶？</font>
 <br>
 <font color="#B22222"><b>ミツルギ　誰だ？</b></font>
 <br>
