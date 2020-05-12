@@ -136,9 +136,9 @@ comments: true
 <br>
 <font color="#1E90FF">成步堂：什么情况？</font>
 <br>
-？？？　この時を待っていたよ。</b></font>
+<font color="#A9A9A9"><b>？？？　この時を待っていたよ。</b></font>
 <br>
-？？？：我一直在等待着这一刻哟。</font>
+<font color="#A9A9A9">？？？：我一直在等待着这一刻哟。</font>
 <br>
 <font color="#B22222"><b>ミツルギ　こ、こ、こ、この声はぁああああ・・・・ッ！</b></font>
 <br>
@@ -152,13 +152,13 @@ comments: true
 <br>
 <font color="#1E90FF">成步堂：诶诶！</font>
 <br>
-？？？　いよいよアタシ達のラブストーリーが描かれるんだね。</b></font>
+<font color="#A9A9A9"><b>？？？　いよいよアタシ達のラブストーリーが描かれるんだね。</b></font>
 <br>
-？？？：终于要描写我们的爱情故事了呢。</font>
+<font color="#A9A9A9">？？？：终于要描写我们的爱情故事了呢。</font>
 <br>
-？？？　・・・・・・・・ミッちゃん。</b></font>
+<font color="#A9A9A9"><b>？？？　・・・・・・・・ミッちゃん。</b></font>
 <br>
-？？？：……小御。</font>
+<font color="#A9A9A9">？？？：……小御。</font>
 <br>
 <font color="#B22222"><b>ミツルギ　ぬおおッ！</b></font>
 <br>
