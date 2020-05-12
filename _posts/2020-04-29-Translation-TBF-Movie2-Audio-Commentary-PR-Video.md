@@ -14,7 +14,7 @@ comments: true
 >
 >本翻译同时发布于本人的新浪微博@宅家吃土K喵喵 。
 >
->页面地址：[]()
+>页面地址：[https://weibo.com/2831825662/IFtbkdS9d](https://weibo.com/2831825662/IFtbkdS9d)
 
 日语原文＆简中翻译对照版，仅供学习参考使用
                                              
