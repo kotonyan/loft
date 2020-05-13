@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【翻译】[4Gamer10月10日刊载]《STARLY GIRLS -Episode Starsia-》动画化&角川Gamers社长安田善巳访谈
-date: 2020-04-29
+date: 2016-11-05
 Author: Kotonyan
 categories: Translation
 tags: [STARLY GIRLS -Episode Starsia-,安田善巳]
