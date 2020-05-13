@@ -10,11 +10,15 @@ comments: true
 
 >谨以此翻译送给我可爱的玉米。生日快乐！
 
-
+日语原文＆简中翻译对照版，仅供学习参考使用
 
 视频观看地址：[哔哩哔哩](https://www.bilibili.com/video/BV1Hx411F7YV?p=8)
 
+·
 
+·
+
+·
 
 <font color="#000000"><b>逆転裁判６　追加DLシナリオ　特別編「時を超える逆転」</b></font>
 <br>
