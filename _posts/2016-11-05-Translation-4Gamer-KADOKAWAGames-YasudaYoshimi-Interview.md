@@ -18,8 +18,6 @@ comments: true
 
 编辑部：ginger
 
-
-
 基于与中国・Alpha Games（即，上海奥飞游戏有限公司）之间达成的业务合作关系，角川游戏的新作手游《STARLY GIRLS -Episode Starsia-》（iOS ／ Android）已确定即将进军中国市场并开展关联动画的制作，本站亦于日前对此作了报道。
 
 在由Alpha Games于北京召开的发布会上，尽管同时发布的还有多款由同公司开发的各具特色的新作游戏，但《STARLY GIRLS》却占据了最易受到瞩目的一号位，第一个被介绍给了与会者，可见Alpha Games对该作投入了极高的热情与期望。
