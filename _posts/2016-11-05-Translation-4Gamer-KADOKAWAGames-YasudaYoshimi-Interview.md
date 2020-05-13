@@ -17,6 +17,8 @@ comments: true
 # 针对《STARLY GIRLS -Episode Starsia-》在的中国业务展开及令人在意的关联动画制作，角川游戏法人代表董事兼总裁的安田善巳先生的回答是？ 
 
 编辑部：ginger
+
+
 　
 基于与中国・Alpha Games（即，上海奥飞游戏有限公司）之间达成的业务合作关系，角川游戏的新作手游《STARLY GIRLS -Episode Starsia-》（iOS ／ Android）已确定即将进军中国市场并开展关联动画的制作，本站亦于日前对此作了报道。
 
