@@ -544,9 +544,9 @@ comments: true
 <br>
 <font color="#B22222">御剑：呃唔唔唔唔唔。</font>
 <br>
-<font color="#DA70D6"><b>マヨイ　法定を出たら待ち構えてるかもね。現在のオバチャン。</b></font>
+<font color="#DA70D6"><b>マヨイ　法廷を出たら待ち構えてるかもね。現在のオバチャン。</b></font>
 <br>
-<font color="#DA70D6">真宵：说不定一出法院就能看到她在等着呢。这个时空的大婶。</font>
+<font color="#DA70D6">真宵：说不定一出法庭就能看到她在等着呢。这个时空的大婶。</font>
 <br>
 <font color="#1E90FF"><b>ナルホド　まさに“時を超えた愛”だね。</b></font>
 <br>
