@@ -12,7 +12,7 @@ comments: true
 
 本文为简中翻译版，仅供学习参考使用
 
-原文链接：http://www.4gamer.net/games/354/G035440/20161017087/
+原文链接：[http://www.4gamer.net/games/354/G035440/20161017087/](http://www.4gamer.net/games/354/G035440/20161017087/)
 
 # 针对《STARLY GIRLS -Episode Starsia-》在的中国业务展开及令人在意的关联动画制作，角川游戏法人代表董事兼总裁的安田善巳先生的回答是？ 
 
