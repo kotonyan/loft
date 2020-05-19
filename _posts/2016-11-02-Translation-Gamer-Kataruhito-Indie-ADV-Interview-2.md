@@ -12,7 +12,7 @@ comments: true
 >
 >故“‘说书人’品牌制作人访谈第三回及游戏《海市蜃楼馆》印象”（原文地址：[https://www.gamer.ne.jp/news/201610310064/](https://www.gamer.ne.jp/news/201610310064/)）没有再进行翻译。
 >
->同系列访谈第一回：[]()
+>同系列访谈第一回：[https://kotonyan.github.io/loft/Translation-Gamer-Kataruhito-Indie-ADV-Interview-1/](https://kotonyan.github.io/loft/Translation-Gamer-Kataruhito-Indie-ADV-Interview-1/)
 
 本文为简中翻译版，仅供学习参考使用
 
