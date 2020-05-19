@@ -1,17 +1,36 @@
-独立ADV游戏能否震撼人心？小编带你一探究竟！“说书人”品牌制作人访谈第一回&游戏收藏家对游戏《彼岸花绽放之夜》的印象
-2016年10月10日12:00 任天堂3DS
-列表  
+---
+layout: post
+title: 【翻译】[Gamer 2016年10月15日刊载]独立ADV游戏能否震撼人心？小编带你一探究竟！“说书人”品牌制作人访谈第一回&游戏收藏家对游戏《彼岸花绽放之夜》的印象
+date: 2016-11-02
+Author: Kotonyan
+categories: Translation
+tags: [カタルヒト,彼岸花绽放之夜]
+comments: true
+---
+
+>本翻译曾供稿给微信公众号「游戏叮叮」（现已改名为「叽咪叽咪Gimm」），但最终未被使用。
+>故“‘说书人’品牌制作人访谈第三回及游戏《海市蜃楼馆》印象”（原文地址：[https://www.gamer.ne.jp/news/201610310064/](https://www.gamer.ne.jp/news/201610310064/)）没有再进行翻译。
+>同系列访谈第二回：[https://kotonyan.github.io/loft/Translation-Gamer-Kataruhito-Indie-ADV-Interview-2/](https://kotonyan.github.io/loft/Translation-Gamer-Kataruhito-Indie-ADV-Interview-2/)
+>
+
+本文为简中翻译版，仅供学习参考使用
+
+原文链接：[https://www.gamer.ne.jp/news/201610100003/](https://www.gamer.ne.jp/news/201610100003/)
+
+# 独立ADV游戏能否震撼人心？小编带你一探究竟！“说书人”品牌制作人访谈第一回&游戏收藏家对游戏《彼岸花绽放之夜》的印象
+
+2016年10月10日12:00 
 
 负责人：酒缶
 
- 
 FuRyu Corporation（中文名暂译：风流股份有限公司，下文开始简称为FuRyu）近期启动了新的独立ADV游戏系列“说书人”。本站今天将为读者奉上由游戏收藏家·酒缶先生带来的、针对一手创立了该系列的制作人·大地将先生的访谈第一回，以及对游戏《彼岸花绽放之夜》的印象。
 
 在FuRyu负责网络发行的独立文字冒险游戏中挖掘出优秀的作品，并将其集结推广，这就是“说书人”品牌。该系列的第一炮作品已于2016年7月27日开放了网络下载。作为本企划的第一回，本页将会刊载出对该作品的印象，并顺次登载出针对“说书人”品牌制作人·大地将先生的访谈。本次的印象部分将为各位送上对游戏《彼岸花绽放之夜》的试玩印象。
 
-恳请各位详细阅读到最后
+## 恳请各位详细阅读到最后
 
-大地将先生
+![大地将先生](https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/m/1.jpg)
+
 酒缶：大地先生到目前为止都有经历过哪些工作呢？
 
 大地将先生（下文开始省略敬称）：刚开始是游戏杂志的撰稿人，之后移动到游戏的开发公司、发行公司，后来进入了FuRyu。在FuRyu里担任了《Lost Dimension》（中译：失落次元／失落维度）（PS3/PS Vita）、《结城友奈是勇者：树海的记忆》（PS Vita）、《食戟之灵：友情与羁绊的一碟》（3DS）、《哆啦A梦：新·大雄的日本诞生》（3DS）等等作品的总监和制作人。
@@ -30,6 +49,7 @@ FuRyu Corporation（中文名暂译：风流股份有限公司，下文开始简
 
 酒缶：既能解决单一数字下载作品就算发售了找起来也很困难的问题，又能将独立游戏作品推上家用游戏主机平台，是有着这两方面的考虑吧。
 
+![大地将先生](https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/m/2.jpg)
 
 大地：要是FuRyu上来就只发行一支仅供数字下载的作品的话，想来也很难吸引到玩家们的关注，作为独立游戏来说单一作品的发售也很难取得好的销售成绩。
 
@@ -43,7 +63,10 @@ FuRyu Corporation（中文名暂译：风流股份有限公司，下文开始简
 
 酒缶：的确，底下的触屏上都有skip（跳过）、auto（自动）和backlog（查看历史文本），按START（开始）按钮可以打开系统菜单等等，都是共通的啊。
 
-		
+![共通UI]（https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/m/3.jpg）	
+![共通UI]（https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/m/4.jpg）
+![共通UI]（https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/m/5.jpg）
+
 大地：这也正是想展现出品牌整体感的部分。
 
 酒缶：从开放下载开始也已经过了一个多月了，市场的反响又如何呢？
@@ -58,6 +81,7 @@ FuRyu Corporation（中文名暂译：风流股份有限公司，下文开始简
 
 大地：我也是这么想的，所以才创立了“说书人”这个品牌，并且特意将它放在了公司名FuRyu的前面。
 
+![大地将先生]（https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/m/6.jpg）
 
 酒缶：公司内部的反馈又如何呢？
 
@@ -75,6 +99,7 @@ FuRyu Corporation（中文名暂译：风流股份有限公司，下文开始简
 
 大地：这种心情我想还是有的吧，但也有“真的可行吗”这样的心情吧，公司内部应该是对半开吧。我觉得更像是对此抱有持续关注的心态在看着吧。
 
+![左：酒缶；右：大地将先生](https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/o/7.jpg)
 
 酒缶：独立游戏作品和家用游戏主机作品之间的区别究竟在哪，可以说一下吗？
 
@@ -94,27 +119,38 @@ FuRyu Corporation（中文名暂译：风流股份有限公司，下文开始简
 
 （访谈将会在下回接着放出）
 
-虽然内容非常恐怖，明明非常得恐怖，却依旧让人忍不住深入游玩下去的《彼岸花绽放之夜》
+## 虽然内容非常恐怖，明明非常得恐怖，却依旧让人忍不住深入游玩下去的《彼岸花绽放之夜》
+
 游戏的标志是个略为有点凛然可敬的女孩子。标题画面呈现出令人恐惧的氛围。从这里可以使人联想到类似《厕所里的花子小姐》（译者注：日本有名的恐怖怪谈故事）的、带有校园题材和荒诞元素的恐怖作品。
 
+![彼岸花绽放之夜](https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/o/8.jpg)
 
 但即使是从花子小姐的角度去理解内容，因为还有偏向荒诞的部分，里面着实也包含了不少黑暗的内容。像我这种游戏宅，一想象到被游戏化了的花子小姐，脑袋里总会若隐若现地浮出那一边的花子小姐的影像，所以刚开始总有一种游戏在装傻充愣的感觉。
 
 要说原因的话，彼岸花可不就像是女孩子的名字嘛？和花子小姐一样名字里有花字……然后为了让玩家可以开始游戏竭尽全力地渲染氛围尽量不留下恐怖的印象，还有场景选择画面也是，结果反而加重了黑暗的氛围。说好只做试玩印象的，结果不仅玩到了最后还把全部的蜡烛都玩出来了真对不起。本来应该1话完结的地方蜡烛反而在不断地增加。
 
+![彼岸花绽放之夜](https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/o/9.jpg)
 
 最初会啪啪地闪现，选择话题后就会消失的背景是学校的场景。明知道学校只是故事展开的舞台，自己只是在看着以前上过学的校园里的风景而已，不知怎么的总有种不安的感觉萦绕心头。学校因为有人在里面活动才能成为学校，反之仅仅只是人不在了就会让人感到不安。慢慢地平复着自己的心情，我终于走到了厕所。
 
-	
+![彼岸花绽放之夜](https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/m/10.jpg)
+![彼岸花绽放之夜](https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/m/11.jpg)
+
 可是，一个接着一个跳出来的文本都和一般来说的恐怖内容没有半点关系。那是发生在学校里的事件。学生遭受的来自于学生的事件和学生遭受的来自于老师的事件，虽然游戏只是在陈述着事件的事实关系，但那个内容本身却将我的心绪引领进了茫茫黑暗之中。虽然无法透露具体的内容，但诸如被妖怪袭击啦，到处充斥着的离奇景象，都会不断地不断地将玩家吸引到黑暗的空间中去。在学校这个司空见惯了的空间中发生的，人与人之间的过往，能给予玩家直击精神深处的恐怖体验。
 
 这是配合着OP歌曲煽动出恐怖气氛的影像。配合着影像显现出的贴图和演出虽然也会让人徐徐地产生恐怖的感觉，但凌驾在这之上的还数恰到好处的文本，更能煽动起玩家内心的不安。
 
-	
+![彼岸花绽放之夜](https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/m/12.jpg)
+![彼岸花绽放之夜](https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/m/13.jpg)
+![彼岸花绽放之夜](https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/m/14.jpg)
+![彼岸花绽放之夜](https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/m/15.jpg)
 	
 如果玩家是抱着玩超自然内容的心态来玩的话正好是提高期待感的时候，但突然就会来那么一下叫你掉以轻心，冷不防地就会被打击到。明明一只妖怪都还没有出现，仅仅只是了解到了一名少女和一名教师之间发生的事情，就好像被什么东西附身了一般，整个人都被包围在不安的气氛中。
 
-	
+![彼岸花绽放之夜](https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/m/16.jpg)
+![彼岸花绽放之夜](https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/m/17.jpg)
+![彼岸花绽放之夜](https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/m/18.jpg)
+![彼岸花绽放之夜](https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/m/19.jpg)
 	
 开始的第一话说的是森谷毬枝成了校园妖怪啜泣先生的故事，玩家可以寻找到在校园妖怪的排位上排名第三的彼岸花的排名总是排在啜泣先生的前面这么一件事。话虽如此，比起妖怪的恐怖感来说，人类之间引发的恐怖绝对更胜一筹，音效、贴图和演出也在煽动着这种恐怖感。
 
@@ -122,7 +158,10 @@ FuRyu Corporation（中文名暂译：风流股份有限公司，下文开始简
 
 当然这也是正常的。剧本可是出自那位以《寒蝉鸣泣之时》和《海猫鸣泣之时》为人熟知的龙骑士07先生之手，自然能叫人一头扎进去而不可自拔。
 
-	
+![彼岸花绽放之夜]（https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/m/20.jpg）
+![彼岸花绽放之夜]（https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/m/21.jpg）
+![彼岸花绽放之夜]（https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/m/22.jpg）
+![彼岸花绽放之夜]（https://image.gamer.ne.jp/news/2016/20161010/0003bb8ff47bdb2493e5f7cb67b96b5acff7/m/23.jpg）
 	
 玩家自身并不需要作出什么选择，只需在自己考量的时间点上按下按键，让故事继续展开下去就好如果是设定成自动进行的话，虽然按下按键这个操作本身会被抹掉，文本会随着游戏的进程自发地显示出来，贴图也会发生变化，演出也会被自动触发，但依然可以按照玩家自己的时间点来做出调整，觉得有点可怕的话就选择停止，让文本快速得跳过去也是可以的。即便如此，由于还有部分让人无法快速略过的、光怪陆离的演出穿插其中，恐怖感反而倍增了。玩家只能一个劲地亲身体会着故事内容本身的强大。
 
@@ -134,60 +173,50 @@ FuRyu Corporation（中文名暂译：风流股份有限公司，下文开始简
 
 但是，如果因此变得更加难以入睡了，又或是心情变得阴暗了的话，这可就是您自己的责任了。
 
+---
 
-［说书人］彼岸花绽放之夜：第一夜（07th Expansion）
-FuRyu3DSdownload
+“说书人”门户网站  
+[http://www.cs.furyu.jp/kataruhito/](http://www.cs.furyu.jp/kataruhito/)
 
-发售日：2016年7月27日价格：800日元（含税）
-17岁以上方可购买
-［说书人］彼岸花绽放之夜：第一夜（07th Expansion）
-［说书人］海市蜃楼馆（Novectacle）
-FuRyu3DSdownload
-
-发售日：2016年7月27日价格：950日元（含税）
-17岁以上方可购买
-［说书人］海市蜃楼馆（Novectacle）
-［说书人］WORLD END ECONOMiCA Episode.1（Spicy Tails）
-FuRyu3DSdownload
-
-发售日：2016年7月27日价格：800日元（含税）
-17岁以上方可购买
-［说书人］WORLD END ECONOMiCA Episode.1（Spicy Tails）
-［说书人］WORLD END ECONOMiCA Episode.2（Spicy Tails）
-FuRyu3DSdownload
-
-发售日：2016年9月28日价格：800日元（含税）
-12岁以上方可购买
-［说书人］WORLD END ECONOMiCA Episode.2（Spicy Tails）
-“说书人”门户网站 
-http://www.cs.furyu.jp/kataruhito/
-
-个人简介
+个人简介  
 酒缶（日文读作：Sakekan，意为：酒罐子）／游戏收藏家
 
 既是拥有1万支以上游戏软件的游戏收藏家，同时也以自由职业的方式参与着游戏的开发或担任撰稿人等的工作。在做着形形色色的工作的同时，暗暗地栖息于游戏界业内。编辑整理的游戏相关人员访谈的电子书《游戏收藏家·酒缶的Fami朋友Re:collection》现正在发售中参与的游戏软件有3DS下载软件《ダンジョンRPG　ピクダン2》（中文名暂译：迷宫RPG：picdun 2）《謎解きメイズからの脱出》（中文名暂译：解谜：从迷路中脱逃）等其它多数作品。同时在价格.COM网站上，担任着游戏软件和Android APP的专业评测员。
 
 ■官方网站“酒缶的游戏通信” 
-http://www.sakekan.com/ 
+
+[http://www.sakekan.com/](http://www.sakekan.com/)
+
 ■twitter账户 
-http://twitter.com/sakekangame 
+
+[http://twitter.com/sakekangame](http://twitter.com/sakekangame)
+
 ■电子书《游戏收藏家·酒缶的Fami朋友Re:collection1》 
-http://www.amazon.co.jp/dp/B008GYU7B4/ 
+
+[http://www.amazon.co.jp/dp/B008GYU7B4/](http://www.amazon.co.jp/dp/B008GYU7B4/)
+
 ■电子书《游戏收藏家·酒缶的Fami朋友Re:collection2》 
-http://www.amazon.co.jp/dp/B00CJ320S6/ 
+
+[http://www.amazon.co.jp/dp/B00CJ320S6/](http://www.amazon.co.jp/dp/B00CJ320S6/)
+
 ■电子书《游戏收藏家·酒缶的Fami朋友Re:collection3》 
-http://www.amazon.co.jp/dp/B00DI3T160/ 
+
+[http://www.amazon.co.jp/dp/B00DI3T160/](http://www.amazon.co.jp/dp/B00DI3T160/)
+
 ■电子书《游戏收藏家·酒缶的Fami朋友Re:collection4》 
-http://www.amazon.co.jp/dp/B00IXLHLVE/ 
+
+[http://www.amazon.co.jp/dp/B00IXLHLVE/](http://www.amazon.co.jp/dp/B00IXLHLVE/) 
+
 ■电子书《游戏收藏家·酒缶的Fami朋友Re:collection5》 
-http://www.amazon.co.jp/dp/B00KA6CZWU/
 
-图片一览
+[http://www.amazon.co.jp/dp/B00KA6CZWU/](http://www.amazon.co.jp/dp/B00KA6CZWU/)
 
-
-显示全部图片
 
 (C)龙骑士07/07th Expansion (C)FURYU Corporation. 
+
 (C)Novectacle (C)FURYU Corporation. 
+
 (C)2011-2016 Spicy Tails (C)FURYU Corporation.
+
 ※刊载内容均基于出品方发表的情报。刊载的图片可能包含有开发中的内容。
+
