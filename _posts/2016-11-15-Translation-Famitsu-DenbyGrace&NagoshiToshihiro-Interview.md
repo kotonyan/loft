@@ -14,7 +14,7 @@ comments: true
 
 原文链接：[http://www.famitsu.com/news/201610/27118764.html](http://www.famitsu.com/news/201610/27118764.html)
 
-# 《黑手党 3》D・Grace（Denby Grace）先生x《如龙6 命之诗。》名越稔洋先生特别对谈 描写黑社会硬汉生存方式的两大作品 美日共同的期待于此邂逅！　
+# 《黑手党 3》D・Grace（Denby Grace）先生 X 《如龙6 命之诗。》名越稔洋先生特别对谈 描写黑社会硬汉生存方式的两大作品 美日共同的期待于此邂逅！　
 
 2K《黑手党 3》的执行制作人——Denby Grace先生同《如龙》系列的名越稔洋先生之间的大大大大——大对谈终成现实！望大家务必认真一读！ 
 
