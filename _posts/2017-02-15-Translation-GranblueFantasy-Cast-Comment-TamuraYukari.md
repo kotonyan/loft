@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【翻译】2016.11.07 碧蓝幻想动画版声优寄语 #7 伊欧 配音 田村由加莉
+title: 【翻译】2016.11.07 碧蓝幻想动画版声优寄语 第7回 田村由加莉
 date: 2017-02-15
 Author: Kotonyan
 categories: Translation
