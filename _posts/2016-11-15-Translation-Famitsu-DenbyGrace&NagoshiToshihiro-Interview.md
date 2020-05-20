@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【翻译】[Fami通10月27日刊载]《黑手党3》D・Grace（Denby Grace）先生x《如龙6 命之诗。》名越稔洋先生特别对谈
+title: 【翻译】[Fami通10月27日刊载]《黑手党3》D・Grace（Denby Grace）先生 X 《如龙6 命之诗。》名越稔洋先生特别对谈
 date: 2016-11-15
 Author: Kotonyan
 categories: Translation
