@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【翻译】田村由加莉 博客 2016.04.03 Sunday Flower♪/鲜花♪
+title: 【翻译】田村由加莉 博客 2016.04.03 Flower♪/鲜花♪
 date: 2016-04-03
 Author: Kotonyan
 categories: Translation
