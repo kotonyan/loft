@@ -12,8 +12,10 @@ comments: true
 
 原文地址：[http://yt-newdiary.jugem.jp/?eid=3](http://yt-newdiary.jugem.jp/?eid=3)  
 
+2016.04.01 Friday
+
 あらためまして♪  
-再次向大家致意♪ 2016.04.01 Friday
+再次向大家致意♪
 
 ---
 
