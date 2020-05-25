@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【翻译】田村由加莉 博客 2016.03.31 祝！リニューアル！/贺！新装重开！
+title: 【翻译】田村由加莉 博客 2016.03.31 祝！リニューアル！／贺！新装重开！
 date: 2016-04-01
 Author: Kotonyan
 categories: Translation
