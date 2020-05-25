@@ -40,6 +40,8 @@ Active Raid开始播放啦♪
 とてもサービス精神旺盛なウィルウェアさんでした(笑)  
 （得出的）结论是Willwave先生的服务精神相当的旺盛（笑）
 
+![博文配图](https://tc.sinaimg.cn/maxwidth.800/tc.service.weibo.com/img_cdn_jg_jugem_jp/b6a2d701b76d9a8c2f53fe985fe6c2a0.jpg)
+
 ---
 
 译者注：  
