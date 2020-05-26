@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【翻译】植田佳奈 博客 2016-03-30 22:58:37 名探偵コナンの紅茶！／名侦探柯南的红茶！
+title: 【翻译】植田佳奈 博客 2016-03-30 名探偵コナンの紅茶！／名侦探柯南的红茶！
 date: 2016-03-30
 Author: Kotonyan
 categories: Translation
