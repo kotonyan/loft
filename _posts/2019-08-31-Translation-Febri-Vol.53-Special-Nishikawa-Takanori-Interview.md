@@ -37,8 +37,7 @@ PROFILE
 
 にしかわ·たかのり　1970年9月19日生まれ、滋賀県出身。 1996年からソロプロジェクト「T.M.Revolution」として活動。「HOT LIMIT」「INVOKE-インヴォーク-」などヒソト曲多数。2018年から本名名義での活動を本格的に開始。
 
-<font color="#d24a35">个人简介</font>
-
+<font color="#d24a35">个人简介</font><br>
 <font color="#d24a35">Nishikawa Takanori：1970年9月19日出生于滋贺县。1996年开始以个人企划“T.M. Revolution”开展演艺工作。演唱有《HOT LIMIT》、《INVOKE》等诸多热门歌曲。2018年开始正式以真名开展演艺工作。</font>
 
 <b>―― 浪巫謡としての出演オファーが来たときは、どんな気持ちでしたか？</b>
