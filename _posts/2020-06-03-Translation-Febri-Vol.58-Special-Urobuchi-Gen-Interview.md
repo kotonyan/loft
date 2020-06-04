@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【作业中/未完成】【翻译】Febri Vol.58 Thunderbolt Fantasy 西幽玹歌 特辑 虚渊玄访谈
+title: 【作业中/未完成】【翻译】Febri Vol.58《Thunderbolt Fantasy 西幽玹歌》特辑 虚渊玄访谈
 date: 2020-06-03
 Author: Kotonyan
 categories: Translation
