@@ -1,0 +1,26 @@
+---
+layout: post
+title: 【作业中/未完成】【翻译】Febri Vol.53 Thunderbolt Fantasy 东离剑游纪2 特辑 石田彰访谈
+date: 2020-06-03
+Author: Kotonyan
+categories: Translation
+tags: [Thunderbolt Fantasy,东离剑游纪,石田彰]
+comments: true
+---
+
+>本翻译曾发布于本人的新浪微博@宅家吃土K喵喵 。
+>
+>页面地址：[]()
+>
+>《Febri Thunderbolt Fantasy 东离剑游纪2 18页大特辑》Kindle版购买地址→ https://amazon.co.jp/dp/B07NQ6FYH6/
+
+日语原文＆简中翻译对照版，仅供学习参考使用
+
+《Febri Vol.53》P42 杂志原图
+![《Febri Vol.53》P42 杂志原图]("《Febri Vol.58》P32 杂志原图")
+
+Febri
+
+P42
+
+Interview
